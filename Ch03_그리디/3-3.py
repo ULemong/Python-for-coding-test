@@ -1,4 +1,4 @@
-#1. min()함수 이용#
+#min()함수 이용#
 n, m = map(int, input().split())
 b = []
 
@@ -9,7 +9,7 @@ for i in range(n):
 
 print(max(b))
 
-#2. 이중 for문 이용#
+#이중 for문 이용#
 n, m = map(int, input().split())
 b = []
 
